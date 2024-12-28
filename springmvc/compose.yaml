@@ -1,0 +1,11 @@
+services:
+  mysql:
+    container_name: mysql_container
+    image: 'mysql:latest'
+    environment:
+      - 'MYSQL_DATABASE=springmvc'
+      - 'MYSQL_PASSWORD=admin'
+      - 'MYSQL_ROOT_PASSWORD=admin'
+      - 'MYSQL_USER=admin'
+    ports:
+      - '3360:3306'
