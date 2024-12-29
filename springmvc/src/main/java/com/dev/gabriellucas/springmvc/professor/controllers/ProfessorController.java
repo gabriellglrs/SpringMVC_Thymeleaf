@@ -1,22 +1,17 @@
 package com.dev.gabriellucas.springmvc.professor.controllers;
 
-import com.dev.gabriellucas.springmvc.professor.DTO.ProfessorDTO;
 import com.dev.gabriellucas.springmvc.professor.entities.Professor;
 import com.dev.gabriellucas.springmvc.professor.enums.StatusProfessor;
 import com.dev.gabriellucas.springmvc.professor.repository.ProfessorRepository;
-import com.dev.gabriellucas.springmvc.professor.services.ProfessorService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
-import org.springframework.web.bind.annotation.*;
-
-import java.util.List;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
 
 @Controller
 public class ProfessorController {
-
-     @Autowired
-     private ProfessorService professorService;
 
      @Autowired
      private ProfessorRepository professorRepository;
