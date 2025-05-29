@@ -1,4 +1,5 @@
-![LinkedIn cover - 22](https://github.com/user-attachments/assets/812d6092-7437-4297-b700-cb8bfb47f168)
+![LinkedIn cover - 26](https://github.com/user-attachments/assets/ab26d2e8-fc68-464b-9684-0a11aa7b6a1d)
+
 
 
 # Sistema de Gerenciamento de Professores - Spring MVC
@@ -164,3 +165,10 @@ Este projeto é livre para uso educacional e desenvolvimento.
 
 **Desenvolvido por:** Gabriel Lucas  
 **Tecnologia:** Spring Boot + Spring MVC
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ed7208b8-6bdc-4c82-98aa-8c8cb9c1428f" height="150"/>
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4C89F8&height=120&section=footer"/>
