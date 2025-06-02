@@ -1,6 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4C89F8&height=120&section=header"/>
+
 ![LinkedIn cover - 26](https://github.com/user-attachments/assets/ab26d2e8-fc68-464b-9684-0a11aa7b6a1d)
-
-
 
 # Sistema de Gerenciamento de Professores - Spring MVC
 
